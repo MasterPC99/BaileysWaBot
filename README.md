@@ -6,11 +6,6 @@
 
 [![Run on Repl.it](https://replit.com/badge/github/W4LX/BaileysWaBot)](https://replit.com/github/W4LX/BaileysWaBot)
 
-### Redes sociales
-
-- [Únete a nuestro Discord](https://discord.com/invite/byjMwu7uyZ)
-- [Sígueme en Instagram](https://www.instagram.com/walx.dev/)
-
 ### Mantén el bot activo 24/7
 
 - [OptikServers](https://my.optikservers.com/join/clickhere)
